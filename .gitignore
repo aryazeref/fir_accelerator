@@ -1,0 +1,26 @@
+# Generated Vivado directories
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Generated logs and simulation data
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.vcd
+*.vpd
+*.dmp
+xsim.dir/
+
+# Editor and operating-system temporary files
+*.bak
+*.tmp
+*~
+Thumbs.db
+.DS_Store
